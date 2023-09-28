@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - CompTIA Security+
 
 ### ❤️ Interests
-- Art - Drawing and Coloring
-- Reading
-- Gaming
-- Cats
+-Art - Drawing and Coloring
+-Reading
+-Gaming
+-Cats
