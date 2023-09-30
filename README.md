@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌋 Cybersecurity Projects 
-
+- [Nmap Network Scanning](https://github.com/CertainRisk/Nmap-network-scanning-project) 
+* Practical Malware Analysis WIP
 
 ### 💻 Certification
 - CompTIA Security+
