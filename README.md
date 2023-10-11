@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 🌋 Cybersecurity Projects 
 - [Nmap Network Scanning](https://github.com/CertainRisk/Nmap-network-scanning-project) 
 * [Practical Malware Analysis WIP](https://github.com/CertainRisk/Malware-Analysis-Triage)
+    - [Silly Putty Challenge](https://github.com/CertainRisk/Silly-Putty-Challenge/)
 
 ### 💻 Certification
 - CompTIA Security+
