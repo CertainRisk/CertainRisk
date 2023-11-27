@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     - [Silly Putty Challenge](https://github.com/CertainRisk/Silly-Putty-Challenge/)
 - [Optimize Azure for Defender for Cloud Skills Challenge - Microsoft](https://github.com/CertainRisk/optimize-azure-with-defender-for-cloud-challenge)
 - [Windows Server 2019 Setup](https://github.com/CertainRisk/windows-server-2019-setup)
-- 
+- [Windows Server 2022 Administration](https://github.com/CertainRisk/Windows-Server-2022)
 ### 💻 Certification
 - CompTIA Security+
 
