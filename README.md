@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - [Nmap Network Scanning](https://github.com/CertainRisk/Nmap-network-scanning-project) 
 * [Practical Malware Analysis WIP](https://github.com/CertainRisk/Malware-Analysis-Triage)
     - [Silly Putty Challenge](https://github.com/CertainRisk/Silly-Putty-Challenge/)
-
+- [Optimize Azure for Defender for Cloud Skills Challenge - Microsoft](https://github.com/CertainRisk/optimize-azure-with-defender-for-cloud-challenge)
+- [Windows Server 2019 Setup](https://github.com/CertainRisk/windows-server-2019-setup)
+- 
 ### 💻 Certification
 - CompTIA Security+
 
