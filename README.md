@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     - [Silly Putty Challenge](https://github.com/CertainRisk/Silly-Putty-Challenge/)
     - [SikoMode Challenge](https://github.com/CertainRisk/sikomode-challenge-MAT)
     - [Blue Jupyter Notebooks for Malware Triage Automation](https://github.com/CertainRisk/Triage-Automation-Blue-Jupyter)
+    - [Analyzing Obfuscated Scripts in PowerShell](https://github.com/CertainRisk/Analyzing-Obfuscated-Scripts-PS)
       
 - [Optimize Azure for Defender for Cloud Skills Challenge - Microsoft](https://github.com/CertainRisk/optimize-azure-with-defender-for-cloud-challenge)
 - [Microsoft Intune](https://github.com/CertainRisk/Microsoft-Intune)
