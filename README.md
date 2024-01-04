@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * [Practical Malware Analysis WIP](https://github.com/CertainRisk/Malware-Analysis-Triage)
     - [Silly Putty Challenge](https://github.com/CertainRisk/Silly-Putty-Challenge/)
     - [SikoMode Challenge](https://github.com/CertainRisk/sikomode-challenge-MAT)
+    - [Blue Jupyter Notebooks for Malware Triage Automation](https://github.com/CertainRisk/Triage-Automation-Blue-Jupyter)
       
 - [Optimize Azure for Defender for Cloud Skills Challenge - Microsoft](https://github.com/CertainRisk/optimize-azure-with-defender-for-cloud-challenge)
 - [Microsoft Intune](https://github.com/CertainRisk/Microsoft-Intune)
