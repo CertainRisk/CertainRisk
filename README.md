@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌋 Cybersecurity Projects 
+- Elastic Cloud SIEM - Coming soon!
 - [Nmap Network Scanning](https://github.com/CertainRisk/Nmap-network-scanning-project) 
 * [Practical Malware Analysis WIP](https://github.com/CertainRisk/Malware-Analysis-Triage)
     - [Silly Putty Challenge](https://github.com/CertainRisk/Silly-Putty-Challenge/)
