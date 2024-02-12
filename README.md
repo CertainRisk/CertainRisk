@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### 🌋 Cybersecurity Projects 
 - Elastic Cloud SIEM - Coming soon!
-- [Nmap Network Scanning](https://github.com/CertainRisk/Nmap-network-scanning-project) 
+- [Nmap Network Scanning](https://github.com/CertainRisk/Nmap-network-scanning-project)
+- [Active Directory Privilege Escalation](https://github.com/CertainRisk/ActiveDirectory-PrivilegeEscalation)
 * [Practical Malware Analysis WIP](https://github.com/CertainRisk/Malware-Analysis-Triage)
     - [Silly Putty Challenge](https://github.com/CertainRisk/Silly-Putty-Challenge/)
     - [SikoMode Challenge](https://github.com/CertainRisk/sikomode-challenge-MAT)
